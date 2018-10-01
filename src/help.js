@@ -1,6 +1,5 @@
 import bar from './bar'
 import _ from 'lodash';
-import './style.scss';
 
 console.log(`hello, world`)
 console.log(`hello, world`)
